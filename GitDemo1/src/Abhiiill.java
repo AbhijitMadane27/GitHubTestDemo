@@ -27,5 +27,12 @@ public class Abhiiill
 		
 		   System.out.println("here is m3");
 	}
+	
+	
+	 public void m5()
+	   {
+		
+		   System.out.println("here is m3");
+	}
 
 }
